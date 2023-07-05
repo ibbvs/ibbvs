@@ -1,7 +1,7 @@
 <body>
   <p align="center">
     <a href="https://github.com/ibbvs/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=сhickie+brickie+and+the+ladies;қ;сhickie+brickie+and+the+ladies&font=Fira%20Code&center=true&width=440&height=45&color=8796cc&vCenter=true& ause=1000&size=22" /></a>
+      <img src="https://readme-typing-svg.demolab.com/?lines=сhickie+brickie+and+the+ladies;қ;сhickie+brickie+and+the+ladies;о;сhickie+brickie+and+the+ladies;ж;сhickie+brickie+and+the+ladies&font=Fira%20Code&center=true&width=440&height=45&color=8796cc&vCenter=true& ause=1000&size=22" /></a>
   </p>
   
   <div align="right">
