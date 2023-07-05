@@ -5,9 +5,10 @@
       <img src="https://readme-typing-svg.demolab.com/?lines=сhickie+brickie+and+the+ladies&font=Fira%20Code&center=true&width=440&height=45&color=8796cc&vCenter=true& ause=1000&size=22" /></a>
   </p>
   
-  <div>
-      <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=ibbvs&theme=dark" width="400"/>
+  <div align="right">
+    <img  alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=ibbvs&theme=dark" width="400"/>
   </div>
+    
 </body>
 
 
